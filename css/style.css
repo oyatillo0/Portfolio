@@ -563,6 +563,11 @@ section {
   z-index: 1;
 }
 
+.cart-bg-img{
+  height: 235px;
+  object-fit: cover;
+}
+
 .portfolio .portfolio-wrap .portfolio-links {
   opacity: 0;
   left: 0;
